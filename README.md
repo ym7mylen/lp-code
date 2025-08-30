@@ -28,5 +28,14 @@
   (https://codepen.io/ravqzjxq-the-sasster/pen/yyYxQxZ)
 - GitHub Pages：[公開ページ]
   (https://github.com/ym7mylen/lp-code)
+- STUDIO：[STUDIO でのデモ]
+  (https://yuki-t-portfolio.studio.site)
 
 ## 📁 ファイル構成
+
+lp-code/
+├── index.html # メインの HTML ファイル
+├── style.css # スタイルシート（CSS）
+├── destyle.css # CSS リセット用スタイル(CSS)
+├── lp-image # 画像フォルダ
+└── README.md # このファイル（プロジェクト説明）
