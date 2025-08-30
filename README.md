@@ -33,9 +33,11 @@
 
 ## 📁 ファイル構成
 
+```text
 lp-code/
-├── index.html # メインの HTML ファイル
-├── style.css # スタイルシート（CSS）
-├── destyle.css # CSS リセット用スタイル(CSS)
-├── lp-image # 画像フォルダ
-└── README.md # このファイル（プロジェクト説明）
+├── index.html       # メインの HTML ファイル
+├── style.css        # スタイルシート（CSS）
+├── destyle.css      # CSS リセット用スタイル(CSS)
+├── lp-image/        # 画像フォルダ
+└── README.md        # このファイル（プロジェクト説明）
+```
