@@ -6,9 +6,7 @@
 
 ## 🖼️ デザイン
 
-- Figma デザイン（PC 版・スマホ版）
-  [Figma リンクはこちら]
-  (https://www.figma.com/design/PL2CQzmDPEZ6I7ZDKYuEEC/%E3%82%86%E3%81%8D%E8%AA%B2%E9%A1%8C-LP%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3-?node-id=0-1&t=Ys85BLLQlO9uPxwM-1)
+- [Figma デザイン（PC 版・スマホ版）](https://www.figma.com/design/PL2CQzmDPEZ6I7ZDKYuEEC/%E3%82%86%E3%81%8D%E8%AA%B2%E9%A1%8C-LP%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3-?node-id=0-1&t=Ys85BLLQlO9uPxwM-1)
 
 ## 💻 使用技術
 
@@ -24,12 +22,9 @@
 
 ## 🔗 デモページ
 
-- CodePen：[こちらから確認できます]
-  (https://codepen.io/ravqzjxq-the-sasster/pen/yyYxQxZ)
-- GitHub Pages：[公開ページ]
-  (https://github.com/ym7mylen/lp-code)
-- STUDIO：[STUDIO でのデモ]
-  (https://yuki-t-portfolio.studio.site)
+- [CodePen](https://codepen.io/ravqzjxq-the-sasster/pen/yyYxQxZ)
+- [GitHub Pages](https://github.com/ym7mylen/lp-code)
+- [STUDIO](https://yuki-t-portfolio.studio.site)
 
 ## 📁 ファイル構成
 
