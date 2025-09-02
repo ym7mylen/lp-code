@@ -8,7 +8,7 @@
 
 - Figma デザイン（PC 版・スマホ版）
   [Figma リンクはこちら]
-  (https://www.figma.com/design/ON92JQfQwDoLVvr7rjwMkP/portfolio?node-id=104-5&t=F0BkwkVgDG0n1Svx-1)
+  (https://www.figma.com/design/PL2CQzmDPEZ6I7ZDKYuEEC/%E3%82%86%E3%81%8D%E8%AA%B2%E9%A1%8C-LP%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3-?node-id=0-1&t=Ys85BLLQlO9uPxwM-1)
 
 ## 💻 使用技術
 
